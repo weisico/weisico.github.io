@@ -1,6 +1,6 @@
 ## Welcome to weisico.github.io
 
-###github redirect to [weisico.com](http://weisico.com)
+### github redirect to [weisico.com](http://weisico.com)
 
 ## Welcome to GitHub Pages
 
